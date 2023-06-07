@@ -1,4 +1,4 @@
- Data Analysing Using Youtube Video Data from few Data Science Channels
+<b> Data Analysing Using Youtube Video Data from few Data Science Channels </b>
 
 Aims and objectives
 Within this project, I would like to explore the following:
