@@ -1,1 +1,15 @@
-![Screenshot 2023-06-07 112427](https://github.com/jiviteshp/youtube-api/assets/121158206/46456254-00c3-442e-90f1-3d710253588e)
+ Data Analysing Using Youtube Video Data few Data Science Channels
+
+Aims and objectives
+Within this project, I would like to explore the following:
+
+Getting to know Youtube API and how to obtain video data.
+Analyzing video data and verify different common "myths" about what makes a video do well on Youtube, for example:
+Does the number of likes and comments matter for a video to get more views?
+Does the video duration matter for views and interaction (likes/ comments)?
+Does title length matter for views?
+How many tags do good performing videos have? What are the common tags among these videos?
+Across all the creators I take into consideration, how often do they upload new videos? On which days in the week?
+Explore the trending topics using NLP techniques
+Which popular topics are being covered in the videos (e.g. using wordcloud for video titles)?
+Which questions are being asked in the comment sections in the videos
